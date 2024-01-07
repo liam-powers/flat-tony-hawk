@@ -1,0 +1,19 @@
+Welcome to the 2D Skateboarding Autoscroller game! 
+This is a budget Tony Hawk's pro skater game.
+
+Your goal is to get the highest possible score before hitting the finish line,
+	while avoiding getting hit by any rail obstacles or pesky pedestrians.
+
+Controls and points are as follows:
+Spacebar: Jump
+A - Ollie, 1 point
+B - Backside Heelflip, 3 points
+C - 50/50 Grind, 2 points
+D - Feeble Grind, 3 points
+E - Backflip, 4 points
+F - Helicopter, 6 points
+
+Each trick has a different risk:reward ratio. More risk corresponds to more reward.
+	Failing that trick will deduce the same number of points it gives for succeeding!
+
+Best of luck. My high score is a 46!

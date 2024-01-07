@@ -1,0 +1,3 @@
+ARCADECLASSIC.TTF Font from Jakob Fisher
+Sounds generated using https://jfxr.frozenfractal.com/
+Sprites made using Aseprite
